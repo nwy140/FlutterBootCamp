@@ -68,3 +68,7 @@ freeline.py
 freeline/
 freeline_project_description.json
 Archive/Tools/Resize/
+
+
+
+.DS_Store
