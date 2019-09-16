@@ -8,4 +8,5 @@ https://github.com/Solido/awesome-flutter
 
 https://api.flutter.dev/flutter/material/material-library.html
 
- 
+## Flutter Mobile Dev Icon Res Generator
+https://appicon.co/
